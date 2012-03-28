@@ -36,13 +36,13 @@ recursive descent parser in python, based on C4.5; implemented using
 
 # Usage
 
-'''python
+```python
 import numpy as NP
 import dTree as DT
 
 tree = DT.dtree(sample_data)
 tree.render_tree()
-'''
+```
 
 
 # Bugs, feature requests?
