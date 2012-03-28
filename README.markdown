@@ -8,9 +8,8 @@ recursive descent parser in python, based on C4.5; implemented using
 + graphviz (tree layout + rendering)
 <br />
 
-<img src="http://alexland.github.com/decisionTree-npgv/images/dTree-image1.png" alt="decision tree image" title="sample output" />
+<img src="https://alexland@github.com/alexland/decisionTree-npgv.git/images/dTree-image1.png" alt="decision tree image" title="sample output" />
 <br />
-
 
 
 # Requirements
