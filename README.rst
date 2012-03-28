@@ -4,7 +4,8 @@ decisionTree-ngpv
 
 recursive descent parser based on C4.5, implemented using python + numpy (computation engine) and graphviz (tree layout + rendering)
 
-sample output: ![Smaller icon](/Users/doug/Projects/toCommit/dTree-image1.png "from test data in decisionTree-ngpv")
+<img src="http://alexland.github.com/decisionTree-npgv/images/dTree-image1.png alt="decision tree image" title="sample output" />
+<br />
 
 
 
