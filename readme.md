@@ -8,7 +8,7 @@ recursive descent parser in python, based on C4.5; implemented using
 
 Source
 ------
-https://alexland@github.com/alexland/decisionTree-npgv
+https://github.com/alexland/decisionTree-npgv
 
 Installation from source
 ------------------------
